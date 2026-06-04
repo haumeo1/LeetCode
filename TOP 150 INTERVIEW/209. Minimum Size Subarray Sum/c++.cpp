@@ -18,5 +18,5 @@ public:
         return minL != INT_MAX ? minL :0;
     }
 
-    
+    // Done in O(n) time and O(1) space
 };
